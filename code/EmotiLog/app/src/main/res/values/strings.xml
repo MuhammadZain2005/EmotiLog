@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EmotiLog</string>
+    <string name="Greeting">Hey, User</string>
+    <string name="Ask">How are you feeling today?</string>
+
+    <!-- Emoticon Strings -->
+    <string name="Happy">Happy</string>
+    <string name="Sad">Sad</string>
+    <string name="Angry">Angry</string>
+    <string name="Tired">Tired</string>
+    <string name="InLove">InLove</string>
+    <string name="Chill">Chill</string>
+    <string name="title_home">Home</string>
+    <string name="title_notifications">Summary</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="text_will_appear_here">Text will appear here</string>
+    <string name="here_are_your_logged_entries">Here are your logged entries:</string>
+    <string name="logs">Logs</string>
+    <string name="summary">Summary</string>
+    <string name="summary_text">Summary</string>
+
+</resources>
