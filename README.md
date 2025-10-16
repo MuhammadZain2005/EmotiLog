@@ -1,4 +1,4 @@
-# EmotiLog 📱
+# EmotiLog - Emotion Tracking App
 
 <div align="center">
   <img src="EmotiLog/code/EmotiLog/app/src/main/res/drawable/happy.png" alt="EmotiLog Logo" width="100" height="100">
