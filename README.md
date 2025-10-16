@@ -14,6 +14,8 @@
 
 EmotiLog is a minimalist Android mood tracker designed for quick and easy daily emotional journaling. Users can tap emotion icons on the home screen to log their feelings with automatic timestamps. The app features a clean, intuitive interface with three main sections: Home for logging emotions, Logs for viewing all entries, and Summary for analyzing mood patterns.
 
+Built for CMPUT 301
+
 ## ✨ Features
 
 ### 🏠 **Home Screen**
@@ -37,54 +39,10 @@ EmotiLog is a minimalist Android mood tracker designed for quick and easy daily 
 
 ## 🎨 Screenshots
 
-### Home Screen
-The main interface where users tap emotion icons to log their current mood.
-
-```
-┌─────────────────────────────────┐
-│         Hey, User               │
-│   How are you feeling today?    │
-│                                 │
-│    😊     😢     😠            │
-│   Happy   Sad   Angry           │
-│                                 │
-│    😴     😍     😎            │
-│   Tired  InLove  Chill          │
-└─────────────────────────────────┘
-```
-
-### Logs Screen
-Displays all logged emotions with timestamps in chronological order.
-
-```
-┌─────────────────────────────────┐
-│  Here are your logged entries:  │
-│                                 │
-│  Happy - 2025-01-15 14:30:22   │
-│  Sad - 2025-01-15 12:15:45     │
-│  Chill - 2025-01-15 10:20:10   │
-│  Happy - 2025-01-14 18:45:33   │
-│  Tired - 2025-01-14 16:22:18   │
-│  ...                            │
-└─────────────────────────────────┘
-```
-
-### Summary Screen
-Shows emotion counts and total logging activity.
-
-```
-┌─────────────────────────────────┐
-│           Summary               │
-│                                 │
-│    😊     😢     😠            │
-│     5      2      1            │
-│                                 │
-│    😴     😍     😎            │
-│     3      1      4            │
-│                                 │
-│    Total Count: 16             │
-└─────────────────────────────────┘
-```
+| Home Screen | Logs Screen | Summary Screen |
+|-------------|-------------|----------------|
+| ![Home Screen](EmotiLog/doc/Home_Screen.png) | ![Logs Screen](EmotiLog/doc/Logs.png) | ![Summary Screen](EmotiLog/doc/Summary_Page.png) |
+| *Main interface where users tap emotion icons to log their current mood* | *Displays all logged emotions with timestamps in chronological order* | *Shows emotion counts and total logging activity* |
 
 ## 🛠️ Technical Details
 
@@ -259,27 +217,10 @@ This project is open source and available under the [MIT License](LICENSE).
 - GitHub: [@MuhammadZain2005](https://github.com/MuhammadZain2005)
 - Project: [EmotiLog Repository](https://github.com/MuhammadZain2005/EmotiLog)
 
-## 🙏 Acknowledgments
 
-- Android Jetpack Navigation for smooth fragment transitions
-- Material Design for beautiful UI components
-- Android View Binding for type-safe view access
-- Java SimpleDateFormat for timestamp formatting
-
-## 📈 Future Enhancements
-
-- [ ] **Data Persistence**: SQLite database for permanent storage
-- [ ] **Cloud Sync**: Backup and sync across devices
-- [ ] **Analytics**: Mood trends and insights
-- [ ] **Export**: CSV/PDF export functionality
-- [ ] **Themes**: Multiple color themes and dark mode
-- [ ] **Notifications**: Daily mood logging reminders
-- [ ] **Widgets**: Home screen widget for quick logging
-- [ ] **Statistics**: Advanced mood analytics and charts
 
 ---
 
 <div align="center">
   <p>Made with ❤️ for better emotional awareness</p>
-  <p>⭐ Star this repository if you found it helpful!</p>
 </div>
