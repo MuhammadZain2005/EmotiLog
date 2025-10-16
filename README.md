@@ -65,14 +65,6 @@ Built for CMPUT 301
 - **Automatic Timestamps**: Java SimpleDateFormat for consistent formatting
 - **Real-time Updates**: Immediate UI updates on data changes
 
-## 📱 Requirements
-
-- **Android Version**: API 24+ (Android 7.0+)
-- **Target SDK**: API 36
-- **Java Version**: 11
-- **Minimum RAM**: 2GB recommended
-- **Storage**: < 50MB
-
 ## 🚀 Installation & Setup
 
 ### **Prerequisites**
@@ -188,25 +180,6 @@ Watch the app in action! Check out the demonstration video:
 - **Location**: `EmotiLog/video/Demonstration.mov`
 - **Content**: Complete app walkthrough showing all features
 
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. **Fork the repository**
-2. **Create a feature branch**: `git checkout -b feature/amazing-feature`
-3. **Commit your changes**: `git commit -m 'Add amazing feature'`
-4. **Push to the branch**: `git push origin feature/amazing-feature`
-5. **Open a Pull Request**
-
-### **Ideas for Contributions**
-- Add data persistence (SQLite/Room)
-- Implement emotion trends and charts
-- Add export functionality
-- Create backup/restore features
-- Add dark mode support
-- Implement emotion categories
-- Add notes/comments to emotions
-
 ## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
@@ -216,9 +189,6 @@ This project is open source and available under the [MIT License](LICENSE).
 **Muhammad Zain Asad**
 - GitHub: [@MuhammadZain2005](https://github.com/MuhammadZain2005)
 - Project: [EmotiLog Repository](https://github.com/MuhammadZain2005/EmotiLog)
-
-
-
 ---
 
 <div align="center">
